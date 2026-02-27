@@ -2,6 +2,8 @@
 
 ## 📌 Project Overview
 
+This project is a React Native authentication application built using **React Native v0.83.2 (stable release)** with the **new architecture enabled** for better performance
+
 ### 🎯 Task Functionality
 
 The application implements a complete authentication flow including:
